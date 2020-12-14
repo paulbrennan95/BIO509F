@@ -1,6 +1,5 @@
 # BIO509F
 Machine Learning Class Final Project 2020
-Final Project Example
 
 Table of Contents
 Introduction
