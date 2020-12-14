@@ -2,9 +2,13 @@
 Machine Learning Class Final Project 2020
 
 Table of Contents
+
 Introduction
+
 Data Description
+
 How to run scripts
+
 Outputs
 
 Introduction:
