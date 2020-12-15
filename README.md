@@ -39,11 +39,11 @@ There is no target vector a priori. The target vector is created within the scri
 
 Run the main function with 3 inputs:  
 
-1. csv file of known-binding peptides to train model.
+1. csv file of known-binding peptides to train model. The Peptides should be single-letter coded and in a single column with no header.
 
 2. algorithm: "RandomForest".
 
-3. csv file of unknown-binding peptides to predict binding probabilities.
+3. csv file of unknown-binding peptides to predict binding probabilities (same format as input 1).
 
 
 (4) Outputs:
